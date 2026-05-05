@@ -16,7 +16,7 @@
   &nbsp;
   <a href="https://leetcode.com/VISHESH_JAIN2006"><img src="https://img.shields.io/badge/LeetCode-22D3EE?style=flat-square&logo=leetcode&logoColor=0a0a0a" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D3EE?style=flat-square&logo=gmail&logoColor=0a0a0a" /></a>
+  <a href="mailto:jainvishesh2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D3EE?style=flat-square&logo=gmail&logoColor=0a0a0a" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/VIT%20Bhopal-2024--2028-22D3EE?style=flat-square&logo=academia&logoColor=0a0a0a" />
 </p>
@@ -83,8 +83,7 @@ me.say_hi()
   <a href="https://linkedin.com/in/vishesh-jain-9b0856307"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0a0a0a" /></a>
   <a href="https://leetcode.com/VISHESH_JAIN2006"><img src="https://img.shields.io/badge/LeetCode-22D3EE?style=for-the-badge&logo=leetcode&logoColor=0a0a0a" /></a>
   <a href="https://instagram.com/visheshhh.jain"><img src="https://img.shields.io/badge/Instagram-22D3EE?style=for-the-badge&logo=instagram&logoColor=0a0a0a" /></a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D3EE?style=for-the-badge&logo=gmail&logoColor=0a0a0a" /></a>
+  <a href="mailto:jainvishesh2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D3EE?style=for-the-badge&logo=gmail&logoColor=0a0a0a" /></a>
 </p>
 
 ---
@@ -164,7 +163,7 @@ me.say_hi()
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/VISHESH_JAIN2006_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10&width=500" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/VISHESH_JAIN2006?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10&width=500" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -192,19 +191,24 @@ me.say_hi()
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/VISHESHJAIN2006/DuneSight">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=YOUR_ML_PROJECT&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="ML Project" width="100%"/>
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=DuneSight&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="DuneSight" width="100%"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/VISHESHJAIN2006/VITyarthi-Java-Project">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=VITyarthi-Java-Project&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="VITyarthi Java Project" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/VISHESHJAIN2006/oss-audit-24BCE11088">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=YOUR_PROJECT_3&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Project 3" width="100%"/>
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=oss-audit-24BCE11088&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="OSS Audit" width="100%"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/VISHESHJAIN2006/VITyarthi-Java-Project">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=YOUR_PROJECT_4&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Project 4" width="100%"/>
+        <a href="https://github.com/VISHESHJAIN2006">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=VISHESHJAIN2006&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Profile README" width="100%"/>
         </a>
       </td>
     </tr>
@@ -240,12 +244,10 @@ me.say_hi()
 ## 🎧 Spotify — Now Playing
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=user/31iqzmrzusabznp6l57oipsdxmle&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=user/31iqzmrzusabznp6l57oipsdxmle&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=22d3ee&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iqzmrzusabznp6l57oipsdxmle&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iqzmrzusabznp6l57oipsdxmle&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=22d3ee&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
-
-> 💡 *[Click here to set up Spotify Now Playing](https://github.com/kittinan/spotify-github-profile) — takes 2 minutes.*
 
 ---
 
