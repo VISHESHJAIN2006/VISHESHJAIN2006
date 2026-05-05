@@ -67,7 +67,7 @@ me.say_hi()
 | ✍️ **iCreate Content** | Leading content strategy & digital presence at VIT Bhopal | Design · Writing |
 
 - 🌱 Currently learning: **Advanced React Patterns, System Design, Cloud Computing**
-- 👨‍💻 All my projects: [github.com/VISHESHJAIN20067](https://github.com/VISHESHJAIN20067)
+- 👨‍💻 All my projects: [github.com/VISHESHJAIN2006](https://github.com/VISHESHJAIN2006)
 - 💬 Ask me about: **Python, Java, C++, React, Data Science, OOP, Assembly**
 - ⚡ Fun fact: **I can watch 4 episodes of The Vampire Diaries and still submit assignments on time 🧛**
 
@@ -122,10 +122,10 @@ me.say_hi()
   <table>
     <tr>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=VISHESHJAIN20067&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&ring_color=22D3EE&custom_title=Vishesh's%20GitHub%20Stats" alt="Vishesh's GitHub Stats" />
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=VISHESHJAIN2006&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&ring_color=22D3EE&custom_title=Vishesh's%20GitHub%20Stats" alt="Vishesh's GitHub Stats" />
       </td>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VISHESHJAIN20067&layout=compact&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VISHESHJAIN2006&layout=compact&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -133,12 +133,12 @@ me.say_hi()
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VISHESHJAIN20067&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideNums=22D3EE&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="Vishesh's Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VISHESHJAIN2006&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideNums=22D3EE&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="Vishesh's Streak Stats" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHESHJAIN20067&custom_title=Vishesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area_color=22D3EE&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHESHJAIN2006&custom_title=Vishesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area_color=22D3EE&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -176,7 +176,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHESHJAIN20067&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title_color=22D3EE" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHESHJAIN2006&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title_color=22D3EE" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -191,20 +191,20 @@ me.say_hi()
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/VISHESHJAIN20067/DuneSight">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN20067&repo=YOUR_ML_PROJECT&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="ML Project" width="100%"/>
+        <a href="https://github.com/VISHESHJAIN2006/DuneSight">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=YOUR_ML_PROJECT&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="ML Project" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/VISHESHJAIN20067/oss-audit-24BCE11088">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN20067&repo=YOUR_PROJECT_3&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Project 3" width="100%"/>
+        <a href="https://github.com/VISHESHJAIN2006/oss-audit-24BCE11088">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=YOUR_PROJECT_3&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Project 3" width="100%"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/VISHESHJAIN20067/VITyarthi-Java-Project">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN20067&repo=YOUR_PROJECT_4&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Project 4" width="100%"/>
+        <a href="https://github.com/VISHESHJAIN2006/VITyarthi-Java-Project">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHESHJAIN2006&repo=YOUR_PROJECT_4&theme=dark&title_color=22D3EE&text_color=ffffff&bg_color=0d1117&border_color=22D3EE" alt="Project 4" width="100%"/>
         </a>
       </td>
     </tr>
@@ -273,7 +273,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/VISHESHJAIN20067/VISHESHJAIN20067/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/VISHESHJAIN2006/VISHESHJAIN2006/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > ⚙️ *Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this daily.*
