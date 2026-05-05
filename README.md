@@ -143,20 +143,6 @@ me.say_hi()
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 3D CONTRIBUTION CALENDAR                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 📈 3D Contribution Calendar
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</div>
-
-> ⚙️ *To enable the 3D calendar, add the [GitHub Action by yoshi389111](https://github.com/yoshi389111/github-profile-3d-contrib) to your repo.*
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   LEETCODE STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -238,20 +224,6 @@ me.say_hi()
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 SPOTIFY NOW PLAYING                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎧 Spotify — Now Playing
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iqzmrzusabznp6l57oipsdxmle&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iqzmrzusabznp6l57oipsdxmle&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=22d3ee&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   2025 GOALS                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -265,20 +237,6 @@ me.say_hi()
 - [ ] 🧠 Solve 200+ problems on LeetCode
 - [ ] 🏆 Crack a strong Summer 2026 internship
 - [ ] 📸 Grow iCreate Club's digital reach as Content Lead
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE ANIMATION                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/VISHESHJAIN2006/VISHESHJAIN2006/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ *Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this daily.*
 
 ---
 
