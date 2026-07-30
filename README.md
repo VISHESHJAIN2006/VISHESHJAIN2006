@@ -5,8 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,24&height=200&section=header&text=Hey%20There!%20I'm%20Vishesh%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Dev%20%7C%20Data%20Science%20%7C%20Content%20Creator&descAlignY=60&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+VIT+Bhopal+%F0%9F%8E%93+(GPA%3A+8.86);
-+EX+Data+Science+Intern+%40+Coratia+Technologies+%F0%9F%93%8A;Content+Lead+%40+iCreate+Club+%E2%9C%8D%EF%B8%8F;+EX+Software+Intern+Bennet+Pharmaceuticals+%E2%80%94++%F0%9F%9B%A0%EF%B8%8F;Open+Source+%7C+ML+%7C+Full+Stack+Explorer+%F0%9F%9A%80;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+VIT+Bhopal+%F0%9F%8E%93+%28GPA%3A+8.86%29;EX+Data+Science+Intern+%40+Coratia+Technologies+%F0%9F%93%8A;Content+Lead+%40+iCreate+Club+%E2%9C%8D%EF%B8%8F;EX+Software+Intern+%40+Bennet+Pharmaceuticals+%F0%9F%9B%A0%EF%B8%8F;Open+Source+%7C+ML+%7C+Full+Stack+Explorer+%F0%9F%9A%80;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- ─── Profile Badges ─── -->
