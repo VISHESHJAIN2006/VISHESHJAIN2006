@@ -35,13 +35,13 @@ class VisheshJain:
         self.name         = "Vishesh Jain"
         self.university   = "VIT Bhopal — B.Tech CSE (2024–2028)"
         self.reg_no       = "24BCE11088"
-        self.gpa          = 8.8
-        self.roles        = ["Content Lead @ iCreate Club", "Member @ Gujarati Club"]
+        self.gpa          = 8.86
+        self.roles        = ["Content Lead @ iCreate Club", "Member @ Gujarati Club",]
         self.experience   = ["Data Science Intern @ Coratia Technologies"]
         self.volunteering = "Education foundation for underprivileged kids 🌱"
         self.interests    = ["Machine Learning", "Full Stack", "Open Source", "UX/Design"]
         self.hobbies      = ["The Vampire Diaries 🧛", "Gaming 🎮", "Skill Building 📚"]
-        self.currently    = "FOSSEE IIT Bombay — Vite + React web app 🛠️"
+        self.currently    = "Software Intern At Bennet Pharmaceuticals — Vite + React web app 🛠️"
         self.philosophy   = "Details are not the details. They make the design. — Charles Eames"
 
     def say_hi(self):
