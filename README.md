@@ -35,7 +35,7 @@ class VisheshJain:
         self.name         = "Vishesh Jain"
         self.university   = "VIT Bhopal — B.Tech CSE (2024–2028)"
         self.reg_no       = "24BCE11088"
-        self.gpa          = 8.86
+        self.gpa          = 8.9
         self.roles        = ["Content Lead @ iCreate Club", "Member @ Gujarati Club",]
         self.experience   = ["Data Science Intern @ Coratia Technologies"]
         self.volunteering = "Education foundation for underprivileged kids 🌱"
